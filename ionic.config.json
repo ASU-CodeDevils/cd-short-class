@@ -1,0 +1,7 @@
+{
+  "name": "cd-short-class",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
